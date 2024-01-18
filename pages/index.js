@@ -12,9 +12,9 @@ export default function Home() {
         <p>Hello, I'm Patrick. I'm a graphic designer and digital artist. I love to read manga and watch movies in my free time.</p>
         <p> My expectation in this subject </p>
         <ul>
-          <li>I expect this subject to be challenging for me</li>
-          <li>I will gain new knowledge after this sem</li>
-          <li>I expect that I will have mun while learning</li>
+          <li>I expect this subject to learn again from the basic to enhance and refresh my knowledge</li>
+          <li>I expect to enjoy while learning new things.</li>
+          <li>I expect this subject to be challenging but fun.</li>
         </ul>
         <p> 10 things that requires 0 talent </p>
          <ol>
